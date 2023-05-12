@@ -8,8 +8,8 @@ This is the webpage for Horiseon Social Solution Services, Inc. They provide pro
 
 ## Acceptance Criteria
 
-### Code Refactoring
+## Code Refactoring
 
 ## Screenshot
-
+!["Horiseon Webpage"](/assets/images/horiseon-webpage.JPG "Horiseon Webpage Screenshot")
 ## Conclusion
