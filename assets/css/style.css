@@ -143,6 +143,13 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+@media screen and (max-width:700px) {
+  section {
+      flex-direction: column;
+  }
+}
+
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
